@@ -7,7 +7,7 @@ y luego calcula y muestra el promedio.
 Autor: [Tu Nombre]
 Fecha: 13/11/2024
 """
-
+Haciendo esto causa ahi escribes y el otro lo ve aqui podemos hacer la lista y validamos, una lista de crequeo, como cumple con snake case, etc y demas otro comentario si quieres
 
 def calcular_promedio(lista_calificaciones):
     """
